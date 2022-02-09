@@ -1,3 +1,3 @@
 - 👋 Hi, this is @SamyakSheokar2203
-- 👀 interested in devops, machine learning.
-- 🌱 currently learning JAVA + DSA, redhat linux & CCNA Network.
+- 👀 interested in devops & machine learning.
+- 🌱 currently learning JAVA + DSA, redhat linux.
