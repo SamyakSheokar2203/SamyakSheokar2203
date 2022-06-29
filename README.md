@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA, DevOps, web dev**
 
-- 📫 How to reach me **samyaksheokar@gmail.com**
+- 📫 How to reach me **samyaksheokar22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
