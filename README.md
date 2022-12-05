@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/samyak2203" target="blank"><img src="https://img.shields.io/twitter/follow/samyak2203?logo=twitter&style=for-the-badge" alt="samyak2203" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps & Web Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **DevOps related project & Web dev**
 
