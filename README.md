@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Samyak Sheokar</h1>
+<h1 align="center">Hi 👋, This is Samyak Sheokar</h1>
 <img align="right" alt="Coding" width="400" src="https://blog.insaid.co/wp-content/uploads/2020/01/Coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyaksheokar2203&label=Profile%20views&color=0e75b6&style=flat" alt="samyaksheokar2203" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samyak2203" target="blank"><img src="https://img.shields.io/twitter/follow/samyak2203?logo=twitter&style=for-the-badge" alt="samyak2203" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps , AWS-Cloud**
+- 🌱 Currently learning **DevOps , AWS-Cloud**
 
-- 👯 I’m looking to collaborate on **DevOps related project & AWS**
+- 👯 Looking to collaborate on **DevOps related project & AWS**
 
 - 💬 Ask me about **DSA, DevOps, AWS**
 
