@@ -12,7 +12,7 @@
 - 💬 Ask me about **DSA, DevOps, AWS**
 
 - 📫 How to reach me **samyaksheokar22@gmail.com**
-- 
+  
 -  My_Blogs **https://hashnode.com/@samyak2203**
 
 <h3 align="left">Connect with me:</h3>
